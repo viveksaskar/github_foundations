@@ -1,1 +1,20 @@
 Hell test - github!
+What are gists
+Now that we have a good understanding of repositories, we can review gists. Similarly to repositories, gists are a simplified way to share code snippets with others.
+
+Every gist is a Git repository, which you can fork and clone and can be either public or secret.
+
+Public gists are displayed publicly where people can browse new ones as they’re created. Public gists are also searchable.
+
+Conversely, secret gists are not searchable, but they aren’t entirely private. If you send the URL of a secret gist to a friend, they'll be able to see it.
+
+To learn more about gists see the linked article in our Resources section at the end of this module titled, Creating Gists.
+
+What are wikis?
+Every repository on GitHub.com comes equipped with a section for hosting documentation, called a wiki.
+
+You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles.
+
+While a README file quickly tells what your project can do, you can use a wiki to provide additional documentation.
+
+It’s worth a reminder that if your repository is private only people who have at least read access to your repository will have access to your wiki.
